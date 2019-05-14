@@ -6,6 +6,10 @@ Q-Router for Koa2
 ### 如何使用
 
 ```
+npm i @leeqiang/q-router
+```
+
+```
 // app.js
 const app = new Koa()
 const Router = require('q-router')
@@ -17,6 +21,13 @@ app.use(router.routes())
 ```
 
 // path/to/apis 这是一个目录, q-router 会检测目录下的文件, 只有符合 [Q-API](q-api.md) 格式要求即可.
+
+### 事例
+进入项目下 `example` 文件夹
+```
+> npm i
+> node app
+```
 
 ### Lisence
 MIT
