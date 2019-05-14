@@ -1,0 +1,22 @@
+{
+  "name": "q-router",
+  "version": "1.0.0",
+  "description": "Q-Router for Koa2 ========",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leeqiang/q-router.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leeqiang/q-router/issues"
+  },
+  "homepage": "https://github.com/leeqiang/q-router#readme",
+  "dependencies": {
+    "ajv": "^6.10.0",
+    "koa-router": "^7.4.0",
+    "lodash": "^4.17.11",
+    "require-dir": "^1.2.0"
+  }
+}
