@@ -1,5 +1,5 @@
 {
-  "name": "q-router",
+  "name": "@leeqiang/q-router",
   "version": "1.0.0",
   "description": "Q-Router for Koa2 ========",
   "main": "index.js",
