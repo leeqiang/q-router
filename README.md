@@ -17,7 +17,7 @@ const router = new Router()
 
 router.addApis('/path/to/apis', '/prefix/api')
 
-app.use(router.routes())
+app.use(router.routes)
 ```
 
 // path/to/apis 这是一个目录, q-router 会检测目录下的文件, 只有符合 [Q-API](q-api.md) 格式要求即可.
