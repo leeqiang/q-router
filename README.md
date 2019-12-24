@@ -16,6 +16,8 @@ const Router = require('q-router')
 const router = new Router()
 
 router.addApis('/path/to/apis', '/prefix/api')
+// add prefixes
+// router.addApis('/path/to/apis', ['/api', ''])
 
 app.use(router.routes)
 ```
