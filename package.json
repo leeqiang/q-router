@@ -1,5 +1,5 @@
 {
-  "name": "@leeqiang/q-router",
+  "name": "@anxing131/q-router",
   "version": "1.0.7",
   "description": "Q-Router for Koa2 ========",
   "main": "index.js",
@@ -14,10 +14,10 @@
   },
   "homepage": "https://github.com/leeqiang/q-router#readme",
   "dependencies": {
-    "ajv": "^6.10.0",
-    "ajv-keywords": "^3.4.1",
-    "koa-router": "^7.4.0",
-    "lodash": "^4.17.11",
-    "require-dir": "^1.2.0"
+    "ajv": "6.10.0",
+    "ajv-keywords": "3.4.1",
+    "koa-router": "7.4.0",
+    "lodash": "4.17.11",
+    "require-dir": "1.2.0"
   }
 }

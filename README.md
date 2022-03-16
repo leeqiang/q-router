@@ -33,6 +33,7 @@ app.use(router.routes)
 
 ### Fork 后较原版改动
 1. 新增 ajv createAjvErr 自定义函数支持
+2. fixed package.json libs version
 
 ### Lisence
 MIT
