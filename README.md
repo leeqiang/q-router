@@ -6,7 +6,7 @@ Q-Router for Koa2
 ### 如何使用
 
 ```
-npm i @leeqiang/q-router
+npm i @anxing131/q-router
 ```
 
 ```
@@ -30,6 +30,9 @@ app.use(router.routes)
 > npm i
 > node app
 ```
+
+### Fork 后较原版改动
+1. 新增 ajv createAjvErr 自定义函数支持
 
 ### Lisence
 MIT
