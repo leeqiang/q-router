@@ -1,6 +1,6 @@
 {
   "name": "@anxing131/q-router",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "Q-Router for Koa2 ========",
   "main": "index.js",
   "repository": {
